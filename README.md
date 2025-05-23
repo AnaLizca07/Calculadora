@@ -108,3 +108,7 @@ para que pyautogui pueda simular los clics de los botones.
 
 python3 tests/test_performance.py
 
+Prueba de contraste
+Aquí se validó que la interfaz gráfica esté acorde con el contraste permitido para los usuarios
+[Prueba de contraste.pdf](https://github.com/user-attachments/files/20402375/Prueba.de.contraste.pdf)
+
